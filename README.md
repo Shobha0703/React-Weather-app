@@ -7,8 +7,6 @@ It allows users to search for any city and get real-time weather details includi
 
 - 🌍 Search weather by city name  
 - 🌡️ Displays current temperature, humidity, and "feels like" info  
-- 🌈 Dynamic background images and icons based on weather conditions  
-- ⚡ Built using **React Hooks** and **Material UI**  
 - 🔒 Secure API key management using `.env` variables  
 - 📱 Fully responsive design for all devices  
 
